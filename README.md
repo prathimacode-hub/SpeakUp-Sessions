@@ -14,7 +14,7 @@ This repository would host all the list of speakup sessions I had been invited t
 
 The listed below mentions all my featured speakups across plethora of opportunities I had collaborated or secured an invitation. 
 
-- [Getting Started with Open Source As A Beginner](https://www.youtube.com/watch?v=4197n5XQX5k) by [The Guiding Voice](https://theguidingvoice.podbean.com/).
+- [Getting Started with Open Source As A Beginner](https://www.youtube.com/watch?v=4197n5XQX5k) by [The Guiding Voice](https://theguidingvoice.podbean.com/). <br>
   Podcast Talk of the Same : [Getting Started with Open Source As A Beginner](https://theguidingvoice.podbean.com/e/prathimakadari/)
 - [Demystifying Machine Learning to Develop Smarter Solutions](https://www.youtube.com/watch?v=fOCmCr7z9XQ) by [Hackmakers](https://hackmakers.com/) for Talk Ambassador Series
 
