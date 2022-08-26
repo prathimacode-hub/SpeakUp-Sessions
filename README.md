@@ -20,6 +20,10 @@ The listed below mentions all my featured speakups across plethora of opportunit
   Podcast Talk of the Same : [Getting Started with Open Source As A Beginner](https://theguidingvoice.podbean.com/e/prathimakadari/)
 - [Demystifying Machine Learning to Develop Smarter Solutions](https://www.youtube.com/watch?v=fOCmCr7z9XQ) by [Hackmakers](https://hackmakers.com/) for Talk Ambassador Series
 
+### Progress
+
+- Talks coming soon
+
 
 <h2>📜 Code Of Conduct</h2>
 
