@@ -1,7 +1,7 @@
 # Welcome to SpeakUp-Sessions👋
 
 <p align="center">
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/SpeakUp-Sessions.png"></a>
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Cover%20Photos/SpeakUp-Sessions.png"></a>
 </p>
 
 
@@ -14,6 +14,8 @@ This repository would host all the list of speakup sessions I had been invited t
 
 The listed below mentions all my featured speakups across plethora of opportunities I had collaborated or secured an invitation. 
 
+- [Error404 Hackathon - Micro](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Hackathons/Error404%20Hackathon%20-%20Hackathon%20Organizer%20by%20Micro/Error404-Hackathon-Image.png) as a Hackathon Organizer and successfully wrapped the event efficiently.
+- [Predicting Safest Path Following Natural Disasters in Japan - Omdena Demo Day](https://www.youtube.com/watch?v=7tRjSefHP0w) by Omdena Japan Local Chapter
 - [Getting Started with Open Source As A Beginner](https://www.youtube.com/watch?v=4197n5XQX5k) by [The Guiding Voice](https://theguidingvoice.podbean.com/). <br>
   Podcast Talk of the Same : [Getting Started with Open Source As A Beginner](https://theguidingvoice.podbean.com/e/prathimakadari/)
 - [Demystifying Machine Learning to Develop Smarter Solutions](https://www.youtube.com/watch?v=fOCmCr7z9XQ) by [Hackmakers](https://hackmakers.com/) for Talk Ambassador Series
